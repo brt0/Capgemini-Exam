@@ -1,0 +1,2 @@
+It;Stephen King;horror;2000;company;1000;id;
+Solaris;Stanislaw Lem;fantasy;2001;company2;300;id;

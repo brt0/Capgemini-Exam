@@ -1,0 +1,39 @@
+﻿  bookscavator.cpp
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(9,1): error C2440: '=': cannot convert from 'char' to 'char *'
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(9,10): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(12,1): error C2440: '=': cannot convert from 'char' to 'char *'
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(12,12): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(15,1): error C2440: '=': cannot convert from 'char' to 'char *'
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(15,11): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(18,1): error C2440: '=': cannot convert from 'char' to 'char *'
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(18,10): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(21,1): error C2440: '=': cannot convert from 'char' to 'char *'
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(21,15): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(24,1): error C2440: '=': cannot convert from 'char' to 'char *'
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(24,11): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(27,8): error C2065: 'book_count': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(28,3): error C2065: 'book_count': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(38,10): error C2065: 'name': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(38,1): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(39,10): error C2065: 'author': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(39,1): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(40,10): error C2065: 'genre': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(40,1): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(41,10): error C2065: 'year': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(41,1): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(42,10): error C2065: 'publisher': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(42,1): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(43,10): error C2065: 'pages': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(43,1): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(45,3): error C2065: 'book_count': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\book.h(47,42): error C2065: 'name': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\bookscavator.cpp(59,38): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\bookscavator.cpp(63,40): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\bookscavator.cpp(67,39): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\bookscavator.cpp(71,38): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\bookscavator.cpp(75,43): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\bookscavator.cpp(79,39): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\bookscavator.cpp(89,2): error C2181: illegal else without matching if
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\bookscavator.cpp(101,2): error C2065: 'cin': undeclared identifier
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\bookscavator.cpp(102,1): error C2059: syntax error: '}'
+D:\Workplace\c++\capgemini\bookscavator\bookscavator\bookscavator.cpp(146,12): warning C4551: function call missing argument list
